@@ -10,4 +10,4 @@ export default function App() {
   );
 }
 
-<a href="https://github.com/hatchvan1650/Vanilla-weatherapp.git"> Git </a>;
+<a href="https://github.com/hatchvan1650/React4/tree/main/"> Git </a>;
